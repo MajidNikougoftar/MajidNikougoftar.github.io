@@ -4,55 +4,62 @@
 
 ### EXPERIENCE
 
-**Senior Android Developer**<br>
-Kanoon Farhangi Amoozesh Ghalamchi, Tehran, Iran - *(2022-08 – 2024-07)*
-- Implemented advanced CI/CD pipelines using Jenkins and Gradle, reducing deployment times by 50% and enhancing code
-quality.
-- Implemented Hilt and modular architecture, enhancing memory efficiency by 15% and simplifying app maintenance.
-- Used Test-Driven Development (TDD) to boost code coverage significantly.
-- Utilized Agile methodologies for efficient project development and teamwork.
-
-**Android Developer**<br>
-Vesta System, Shiraz, Iran - *(2022-03 – 2022-08)*
-- Resolved reported crashes in Firebase Crashlytics, resulting in an impressive 80% decrease in the overall crash rate.
-- Used augmented reality (AR) in the estate application to showcase ads in the real world through the camera, resulting in a notable increase in user attraction and engagement.
-- Integrated Jetpack tools, modularizing applications for superior performance and maintainability.
+**Data Scientist**<br>
+NexaDeeds, Montreal, QC - *(Jun 2023 – Apr 2024)*
+• Enhanced legal analysis through automated procedural posture labeling using machine learning.
+• Classified procedural stances in 18,000 legal documents, significantly improving analysis efficiency.
+• Used Technologies: Python, TF-IDF vectorization, Random Forest, NLP.
 
 
-**Android Developer**<br>
-Amoozban.co, Shiraz, Iran - *(2020-10 – 2022-03)*
-- Enhanced code coverage by implementing unit tests
-- Boosted app performance by integrating a cache system into ExoPlayer, reducing network usage significantly.
-- Integrated speech recognition and ExoPlayer into the learning app, resulting in a more interactive and user-friendly experience.
+**Data Scientist - AI and Computer Vision**<br>
+DOT-Lab, Montreal, QC - *(Jan. 2021 – May 2023)*
+• Led the development and maintenance of ML infrastructure for Domtar, optimizing model deployment and analytics solutions.
+• Developed and evaluated a comprehensive dataset of UAV images for automatic mound counting in forested areas.
+• Architected and fine-tuned a deep learning model for an AI-driven computer vision framework, analyzing over 50K aerial images and boosting accuracy by 15%.
+• Pioneered an instance segmentation model, integrating advanced regression techniques to improve segmentation accuracy by 20%.
+• Used Technologies: Python, OpenCV, CUDA, Mask R-CNN, Deep Learning, Computer Vision, Data Augmentation, Transfer Learning, Linear Regression, Hyperparameter Tuning.
 
-**Android Developer**<br>
-Fars Science and Technology Park, Shiraz, Iran - *(2018-07 – 2020-10)*
-- Implemented push notifications in the store app to keep users engaged and informed.
-- Used location services in the mobile app to show products available in real-time, leading to more sales.
-- Captured high-quality images by adding a USB camera with the NDK to the app
+
+**Healthcare Data Analyst**<br>
+Beheshti Hospital, Tehran, Iran - *(Jan. 2018 – Dec. 2020)*
+• Conducted in-depth patient data analyses focusing on ischemic heart disease indicators, enhancing preventive care capabilities.
+• Designed advanced ML algorithms to extract insights from large-scale healthcare data, improving diagnosis accuracy by 25%.
+• Developed dashboards and visualizations using Power BI and Python, providing real-time insights to stakeholders.
+• Used Technologies: Python, Power BI, Logistic Regression, Feature Engineering, Data Manipulation, EDA.
+
+
+---
+
+### PROJECTS
+
+**Speech-based Emotion Recognition for Suicide Prevention**<br>
+• Contributed to developing a Speech Emotion Recognition model using diverse ML techniques (CNN, RNN, SVM, GMM, GAN) to classify emotional indicators linked to suicide risk.
+
+**Student Behavior Analysis for Academic Performance Improvement**<br>
+• Collected, extracted, and compiled data from diverse sources to ensure comprehensive datasets for analysis.
+• Cleaned and preprocessed data to ensure accuracy and completeness, improving overall data quality.
+• Designed and implemented ML models to analyze student behavior trends, leading to a 20% improvement in student achievement metrics.
 
 ---
 
 ### EDUCATION
 
-**Bachelor’s in Computer Science and Engineering**
-Azad University, Shiraz Branch, Shiraz, Iran - *(2019-03 – 2022-07)*<br>
-+ Successfully completed university courses in SQL, gaining expertise in querying and manipulating data.
-+ Designed and implemented an application for identifying animal medication needs based on user-entered symptoms, utilizing
-+ Python, Kotlin, and JavaScript languages.
+**MASc in Quality Systems Engineering**
+Concordia University, Montreal, Canada - *(May 2023)*<br>
+
+**Master in Computer Science**
+Qom University, Iran - *(Feb 2015)*<br>
+
+**Bachelor in IT Engineering**
+Payame Noor University, Iran - *(Sep 2011)*<br>
 
 ---
 
 ### Skills
 
-**Programming Languages**: java, C++, Javascript, Kotlin, Dart, Python.<br><br>
-**APIs & Web Services**: RESTful APIs, JSON, Retrofit Ktor, Volley, OkHttp<br><br>
-**Design & Architectural Patterns**: MVVM, MVP, Dependency Injection (Dagger,Hilt, Koin), Singleton, Observer,
-Adapter, Factory, Builder<br><br>
-**UI/UX Design**: Jetpack Compose, XML Layouts, Material Design guidelines, responsive design, custom views, animations<br><br>
-**Database Management**: SQLite, SQL, Postgressql<br><br>
-**Testing and Debugging**: JUnit, Espresso, Mockito , UI Automator, Firebase Test Lab, debugging tools (Android Studio Debugger, Logcat).<br><br>
-**Mobile Security**: Encryption, secure data storage<br><br>
-**CI/CD Tools**: Experienced with Jenkins, GitHub Actions, Bitrise, CircleCI, and Travis CI<br><br>
-**Cloud Services**: Familiar with Firebase, AWS, and Google Cloud Platform for CI/CD workflows<br><br>
-**Soft Skills**: Strong problem-solving abilities, teamwork, communication skills, attention to detail, ability to learn new technologies quickly, ability to work in a fast-paced environment
+**Programming Languages & Tool**: Python (Pandas, NumPy, SciPy, Scikit-learn, TensorFlow, Keras, NLTK, JSON), R, Jupyter, GitHub, Google Colab, KNIME, OpenCV.<br><br>
+**Data Analysis & Modeling**: Predictive Modeling, Image Processing, Computer Vision<br><br>
+**Business Intelligence Tools**: Microsoft Office Suite (Advanced Excel), Microsoft Power BI (DAX, Data Modeling), IBM SPSS Statistics, SPSS Modeler<br><br>
+**Database Management**: SQL, SQLite, Postgressql<br><br>
+**Soft Skills**: Problem Solving, Teamwork, Advanced Communication, Attention to Detail<br><br>
+**Languages**: English, French<br><br>
