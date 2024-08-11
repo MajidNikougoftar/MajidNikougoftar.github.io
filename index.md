@@ -44,14 +44,14 @@ Beheshti Hospital, Tehran, Iran - *(Jan. 2018 – Dec. 2020)*
 
 ### EDUCATION
 
-**MASc in Quality Systems Engineering**
-Concordia University, Montreal, Canada - *(May 2023)*<br>
+**MASc in Quality Systems Engineering**<br>
+Concordia University, Montreal, Canada - *(May 2023)*
 
-**Master in Computer Science**
-Qom University, Iran - *(Feb 2015)*<br>
+**Master in Computer Science**<br>
+Qom University, Iran - *(Feb 2015)*
 
-**Bachelor in IT Engineering**
-Payame Noor University, Iran - *(Sep 2011)*<br>
+**Bachelor in IT Engineering**<br>
+Payame Noor University, Iran - *(Sep 2011)*
 
 ---
 
